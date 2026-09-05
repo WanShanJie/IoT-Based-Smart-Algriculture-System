@@ -1,0 +1,15 @@
+.conda/
+*.h5
+*.hdf5
+Intelligent_Components/.env
+Intelligent_Components/Dataset/
+Intelligent_Components/snapshot.jpg
+Intelligent_Components/leaf_disease_detection_model.keras
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.env
+*.keras
+images/iot_setup.png
