@@ -385,14 +385,6 @@ After uploading, open the Serial Monitor at:
 
 The ESP32 should initialize the sensors, connect to Wi-Fi, synchronize its time, and establish the MQTT connection.
 
-## IoT Sensor Setup
-
-The diagram below shows the recommended wiring and breadboard layout for the sensors, relay, and ESP32 used in this project. Save the project image to `images/iot_setup.png` so it renders here.
-
-![IoT Sensor Setup](images/iot_setup.png)
-
-Figure: IoT Setup
-
 ---
 
 # Intelligent Components Setup
