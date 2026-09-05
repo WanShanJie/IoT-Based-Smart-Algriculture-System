@@ -30,9 +30,6 @@ The system uses an ESP32 to collect real-time environmental data and control a w
 * [Testing the System](#testing-the-system)
 * [Configuration](#configuration)
 * [Demo Video](#demo-video)
-* [Limitations](#limitations)
-* [Future Improvements](#future-improvements)
-* [License](#license)
 
 ---
 
