@@ -576,38 +576,6 @@ The demonstration will show the system setup, sensor monitoring, intelligent irr
 
 ---
 
-# Limitations
-
-This project was developed as an academic / prototype system and may require additional configuration before deployment in a real agricultural environment.
-
-Some limitations include:
-
-* Sensor readings depend on hardware calibration.
-* Soil moisture thresholds may need to be adjusted for different soil types and plants.
-* Weather forecast availability depends on the external weather API.
-* Internet connectivity is required for cloud and weather-related functionality.
-* The trained leaf disease model is limited to the classes it was trained to recognize.
-* Hardware safety considerations should be addressed before connecting a real water pump or other high-power equipment.
-* Cloud credentials and device configuration must be replaced with the user's own deployment credentials.
-
----
-
-# Future Improvements
-
-Potential improvements include:
-
-* Additional environmental sensors
-* More plant disease classes
-* Improved disease detection models
-* Mobile application integration
-* Advanced cloud deployment
-* Historical data analytics
-* More sophisticated irrigation optimization
-* Automated model retraining
-* Improved hardware fault detection
-* Containerized deployment of the intelligent components
-
----
 
 # Technologies Used
 
@@ -629,12 +597,10 @@ Potential improvements include:
 
 ## Author
 
-**Wan Shan Jie**
+**Wan Shan Jie/ Chia Jie Lum**
 
-Computer Science — Computer Infrastructure
+Computer Science
 Universiti Sains Malaysia (USM)
-
-GitHub: https://github.com/WanShanJie
 
 ---
 
