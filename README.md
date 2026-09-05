@@ -570,7 +570,7 @@ This includes:
 
 A demonstration video will be added here:
 
-**YouTube:** `https://youtu.be/91mNTofutME`
+**YouTube:** https://youtu.be/91mNTofutME
 
 The demonstration will show the system setup, sensor monitoring, intelligent irrigation decision making, pump control, and leaf disease detection.
 
